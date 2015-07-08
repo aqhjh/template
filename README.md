@@ -1,2 +1,1 @@
-# template
-js template to use format html with data
+The template is used to format the html with data.The current template is difficult to use bacause all kinds of grammer.But the template use the simple grammer structure and provide the simple use case for user.It is so easy to use.
